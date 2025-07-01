@@ -109,15 +109,11 @@ This project applies the following core Object-Oriented Programming (OOP) concep
 
 ## DEMO
 
-<p align="left">
-  <img src="./OP_SS/OP_SS1.png" width="400" />
-  <img src="./OP_SS/OP_SS2.png" width="400" />
-</p>
+![Login pages](java_projss/OP_SS1)
+![Menu pages](java_projss/OP_SS2)
+![MCQ pages](java_projss/OP_SS3)
+![Listen_and_find pages](java_projss/OP_SS4)
 
-<p align="left">
-  <img src="./OP_SS/OP_SS3.png" width="400" />
-  <img src="./OP_SS/OP_SS4.png" width="400" />
-</p>
 
 
 This is a demo video of the application. Since the file size is large, download the raw video to view it.  
