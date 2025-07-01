@@ -109,10 +109,10 @@ This project applies the following core Object-Oriented Programming (OOP) concep
 
 ## DEMO
 
-![Login pages](java_projss/OP_SS1)
-![Menu pages](java_projss/OP_SS2)
-![MCQ pages](java_projss/OP_SS3)
-![Listen_and_find pages](java_projss/OP_SS4)
+![Login pages](java_projss/OP_SS1.png)
+![Menu pages](java_projss/OP_SS2.png)
+![MCQ pages](java_projss/OP_SS3.png)
+![Listen_and_find pages](java_projss/OP_SS4.png)
 
 
 
